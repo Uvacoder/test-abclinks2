@@ -6,7 +6,7 @@
         hanselwei.dev
       </h1>
       <h2 class="subtitle">
-        Hello Hansel!
+        Hello World! -Hansel
       </h2>
       <div class="links">
         <a
