@@ -2,21 +2,7 @@
 
 > Hello Hansel!
 
-## Build Setup
+# Personal Site in Progress
 
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+![Image of Home Page](https://sfo2.digitaloceanspaces.com/snapshot/projects.png)
+![Image of Project Page](https://sfo2.digitaloceanspaces.com/snapshot/projects.png)
