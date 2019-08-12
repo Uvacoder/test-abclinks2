@@ -9,7 +9,7 @@
         I'm Hansel Wei
       </h1>
       <h2 class="subtitle">
-       A curious Full Stack Developer <br> that loves emerging tech!
+       A curious Full Stack Developer <br> & Emerging Tech fanatic!
       </h2>
       <div class="links">
         <a
