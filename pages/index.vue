@@ -1,12 +1,15 @@
 <template>
   <div class="container">
     <div>
-      <logo />
-      <h1 class="title">
-        hanselwei.dev
+     <logo/>
+     <h2 class="hello">
+       Hello World!
+     </h2>
+     <h1 class="title">
+        I'm Hansel Wei
       </h1>
       <h2 class="subtitle">
-        Hello World! -Hansel
+       A curious Full Stack Developer <br> that loves emerging tech!
       </h2>
       <div class="links">
         <a
@@ -52,19 +55,28 @@ export default {
 }
 
 .title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+  font-family: 'Myriad Pro', 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: #35495e;
+  color: #eee;
   letter-spacing: 1px;
 }
+
+.hello {
+  font-weight: 300;
+  font-size: 42px;
+  color: #00b8ff;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+}
+
 
 .subtitle {
   font-weight: 300;
   font-size: 42px;
-  color: #526488;
+  color: #d600ff;
   word-spacing: 5px;
   padding-bottom: 15px;
 }
