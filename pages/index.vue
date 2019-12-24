@@ -11,9 +11,9 @@
     <div class="container">
       <div>
         <div class="links">
-          <a href="http://hanselwei.me" target="_blank" class="button--green">Resume</a>
-
+          <a href="https://linkedin.com/in/hanselwei" target="_blank" class="button--blue">Linkedin</a>
           <a href="https://github.com/darkmastermindz" target="_blank" class="button--grey">GitHub</a>
+          <a href="http://hanselwei.me" target="_blank" class="button--green">Resume</a>
         </div>
         <h2 class="subtitle">
           I am a

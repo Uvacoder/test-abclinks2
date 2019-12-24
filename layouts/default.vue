@@ -53,6 +53,7 @@ h3 {
   color: #00ff9f;
   text-decoration: none;
   padding: 10px 30px;
+  margin: 5px;
 }
 
 .button--green:hover {
@@ -67,12 +68,28 @@ h3 {
   color: #fff;
   text-decoration: none;
   padding: 10px 30px;
-  margin-left: 15px;
+  margin: 5px;
 }
 
 .button--grey:hover {
   border: 1px solid #171515;
   color: #fff;
   background-color: #171515;
+}
+
+.button--blue {
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #0072b1;
+  color: #0072b1;
+  text-decoration: none;
+  padding: 10px 30px;
+  margin: 5px;
+}
+
+.button--blue:hover {
+  border: 1px solid #0072b1;
+  color: #fff;
+  background-color: #0072b1;
 }
 </style>
