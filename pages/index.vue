@@ -1,33 +1,32 @@
 <template>
   <div class="outer">
-    <logo />
+    <!-- <logo /> -->
+    <div>
+      <Bitmoji />
+    </div>
+    <h1 class="title">
+      <strong>Hansel Wei</strong>
+    </h1>
+
     <div class="container">
       <div>
-        <h1 class="title">
-          print('Hello World! <br />
-          I'm <strong> Hansel Wei</strong>.')
-        </h1>
-
-        <h2 class="subtitle">
-          I am <mark class="keyword">a curious</mark> Full Stack Developer,
-          <br />
-          Secured Infrastructure
-          <mark class="keyword">professional</mark>, &amp; Emerging
-          <mark class="keyword">tech fanactic</mark>!
-        </h2>
         <div class="links">
-          <a href="http://hanselwei.me" target="_blank" class="button--green">
-            Resume
-          </a>
+          <a href="http://hanselwei.me" target="_blank" class="button--green">Resume</a>
 
-          <a
-            href="https://github.com/darkmastermindz"
-            target="_blank"
-            class="button--grey"
-          >
-            GitHub
-          </a>
+          <a href="https://github.com/darkmastermindz" target="_blank" class="button--grey">GitHub</a>
         </div>
+        <h2 class="subtitle">
+          I am a
+          <mark class="keyword">curious</mark>
+          Full Stack Developer,
+          Secured Infrastructure
+          <mark
+            class="keyword"
+          >professional,</mark> Data Scientist,
+          <mark class="keyword">&amp;</mark> Emerging
+          <mark class="keyword">tech fanactic</mark>
+          !
+        </h2>
       </div>
     </div>
   </div>
@@ -35,10 +34,12 @@
 
 <script>
 import Logo from "~/components/Logo.vue";
+import Bitmoji from "~/components/Bitmoji.vue";
 
 export default {
   components: {
-    Logo
+    Logo,
+    Bitmoji
   }
 };
 </script>
@@ -54,14 +55,13 @@ export default {
 }
 
 .title {
-  font-family: "Myriad Pro", "Quicksand", "Source Sans Pro", -apple-system,
+  font-family: "Roboto Mono", "Quicksand", "Source Sans Pro", -apple-system,
     BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
+  display: inline;
+  font-weight: 20em;
+  font-size: 5em;
   color: #eee;
   letter-spacing: 1px;
-  float: right;
   left: -50%;
 }
 
@@ -72,6 +72,8 @@ export default {
 }
 
 .subtitle {
+  margin: 2em 8em;
+  text-align: center;
   font-weight: 300;
   font-size: 2em;
   line-height: 2.5em;

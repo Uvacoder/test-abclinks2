@@ -6,20 +6,20 @@
 </template>
 
 <script>
-import AppNav from '~/components/AppNav.vue'
+import AppNav from "~/components/AppNav.vue";
 
 export default {
   components: {
     AppNav
-  },
-}
+  }
+};
 </script>
 
 
 <style>
 html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -27,15 +27,16 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
-  background-color:#2c2f33;
+  background-color: #2c2f33;
 }
 
-h1, h2, h3 {
-  font-family: 'Nova Mono', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-weight: normal;
-    color: #eee;
-  
+h1,
+h2,
+h3 {
+  font-family: "Nova Mono", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-weight: normal;
+  color: #eee;
 }
 
 *,
@@ -44,7 +45,6 @@ h1, h2, h3 {
   box-sizing: border-box;
   margin: 0;
 }
-
 
 .button--green {
   display: inline-block;
@@ -63,8 +63,8 @@ h1, h2, h3 {
 .button--grey {
   display: inline-block;
   border-radius: 4px;
-  border: 1px solid #fff ;
-  color: #fff ;
+  border: 1px solid #fff;
+  color: #fff;
   text-decoration: none;
   padding: 10px 30px;
   margin-left: 15px;
