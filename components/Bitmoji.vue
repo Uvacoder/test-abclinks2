@@ -6,7 +6,7 @@
 
 <style>
 .bitmojiAni {
-  border-radius: 250px;
+  border-radius: 350px;
   box-sizing: border-box;
   background-color: goldenrod;
   border: 5px solid #cfd8dc;

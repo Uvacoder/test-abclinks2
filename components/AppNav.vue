@@ -2,16 +2,16 @@
   <div>
     <ul>
       <li>
-        <nuxt-link exact to="/">🏠 Home</nuxt-link>
+        <nuxt-link exact to="/">🏠📜 (H)</nuxt-link>
       </li>
       <li>
-        <nuxt-link exact to="/Projects">🐱‍💻Projects</nuxt-link>
+        <nuxt-link exact to="/Projects">🐙👨🏻‍💻 (P)</nuxt-link>
       </li>
       <li>
-        <nuxt-link exact to="/StayCurious">📖 Journal</nuxt-link>
+        <nuxt-link exact to="/StayCurious">📝📖 (J)</nuxt-link>
       </li>
       <li>
-        <nuxt-link exact to="/whoami">$ whoami</nuxt-link>
+        <nuxt-link exact to="/whoami">🧙🏻‍♂️❓(?)</nuxt-link>
       </li>
     </ul>
   </div>
@@ -25,21 +25,21 @@ export default {};
 div {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: top center;
   flex-shrink: inherit;
   width: 100vw;
   height: 100px;
 
   ul {
-    padding-left: 0;
-
     li {
-      display: inline-block;
-      margin-right: 30px;
-      border-radius: 4px;
-      border: 2px solid limegreen;
+      display: inline;
+      margin: 0.5em;
+      border-radius: 0.75em;
       background-color: aliceblue;
-      padding: 10px 30px;
+      padding: 1em;
+      position: center;
+      overflow-x: hidden;
+      z-index: 1;
 
       a {
         text-decoration: none;
