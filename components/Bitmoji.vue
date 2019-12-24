@@ -8,14 +8,13 @@
 .bitmojiAni {
   border-radius: 350px;
   box-sizing: border-box;
-  background-color: goldenrod;
-  border: 5px solid #cfd8dc;
+
+  border: 7px solid #cfd8dc;
   display: inline-block;
-  animation: turn 0.5s linear forwards 0.5s;
-  transform: rotateX(180deg);
+  animation: turn 0.5s linear backwards 1.5s;
+  transform: rotateY(720deg);
   position: relative;
   overflow: hidden;
-
   height: 230px;
   width: 230px;
 }

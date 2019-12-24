@@ -30,10 +30,10 @@ export default {
 
 <style lang="scss" scoped>
 main {
-  width: 100vw;
-  margin: 2% 15%;
+  width: 80vw;
+  margin: 2% 5%;
   display: grid;
-  grid-template-columns: 2fr 0.5fr;
+  grid-template-columns: 2fr 1fr;
   grid-template-rows: 1fr;
   grid-column-gap: 50px;
   grid-row-gap: 0px;
