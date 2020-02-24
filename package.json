@@ -19,6 +19,7 @@
     "primeicons": "^2.0.0",
     "primevue": "^1.0.0-beta.9",
     "sass-loader": "^8.0.0",
+    "tachyons": "^4.11.1",
     "webpack": "^4.41.3"
   },
   "devDependencies": {
