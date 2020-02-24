@@ -1,7 +1,7 @@
 <template>
     <main>
         <section>
-            <h1>Journal - Stay Curious!</h1>
+            <h1>Curiosity Central</h1>
         </section>
         <aside>
 
