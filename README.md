@@ -5,7 +5,7 @@
 > Hello World Hansel!
 
 # Personal Site in Progress
-- Devolop Branch, Test Build Site: [Hosted on Netlify](https://develop.hanselwei.dev/)
+- Develop Branch, Test Build Site: [Hosted on Netlify](https://develop.hanselwei.dev/)
 
 
 - ![Image of Home Page](https://i.imgur.com/6ZJb5HF.jpg)
