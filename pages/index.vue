@@ -22,8 +22,8 @@
 
      <h2 class="text-left justify-center d-flex flex-column text-base">
           <ul class="list-none ">         
-            <li class="text-green-300">&nbsp;&nbsp;{ "I am a" : [ "Full Stack Developer", "Secured Infrastructure Professional", "Data Scientist", "Emerging Tech Fanactic!", "✨" ] },</li>
-            <li class="text-purple-300">&nbsp;&nbsp;{ "My hobbies include" : [ "Rock Climbing", "Hiking", "Playing Video Games", "Watching Anime", "Coffee Time", "Board Games", "🧗🏻‍♂️" ] }</li><br>
+            <li class="text-green-300">&nbsp;&nbsp;{ "I am a", Full Stack Developer", "Secured Infrastructure Professional", "Data Scientist", "Emerging Tech Fanactic!", "✨" },</li>
+            <li class="text-purple-300">&nbsp;&nbsp;{ "My hobbies include", Rock Climbing", "Hiking", "Playing Video Games", "Watching Anime", "Coffee Time", "Board Games", "🧗🏻‍♂️" }</li><br>
           </ul>
     </h2>
         
