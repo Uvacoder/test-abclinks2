@@ -20,10 +20,10 @@
 
       </div>
 
-     <h2 class="text-left justify-center d-flex flex-column text-base y-8 sm:space-x-2 sm:space-y-2 lg:space-x-4 lg:space-y-4">
-          <ul class="list-none ">         
-            <li class="text-green-300">{ "I am a", Full Stack Developer", "Secured Infrastructure Professional", "Data Scientist", "Emerging Tech Fanactic!", "✨" },</li>
-            <li class="text-purple-300">{ "My hobbies include", Rock Climbing", "Hiking", "Playing Video Games", "Watching Anime", "Coffee Time", "Board Games", "🧗🏻‍♂️" }</li><br>
+     <h2 class="text-left justify-center d-flex flex-column text-base y-8 sm:p-7 lg:p1 sm:space-x-2 sm:space-y-2 lg:space-x-4 lg:space-y-4 skew-y-12">
+          <ul class="list-none tracking-wider antialiased sm:subpixel-antialiased md:antialiased font-extrabold">         
+            <li class="text-green-200 animate-bounce ease-in-out infinite">{ "I am a" : "Full Stack Developer", "Secured Infrastructure Professional", "Data Scientist", "Emerging Tech Fanactic!", "✨" },</li>
+            <li class="text-purple-300 animate-pulse ease-in-out infinites">{ "My hobbies include" : "Rock Climbing", "Hiking", "Playing Video Games", "Watching Anime", "Coffee", "Board Games", "🧗🏻‍♂️" }</li><br>
           </ul>
     </h2>
         
