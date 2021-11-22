@@ -8,24 +8,15 @@
       <strong>Hansel Wei</strong>
     </h1>
 
-    <div class="container">
+    <div class="container text-center max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
       <div>
-        <div class="links">
-          <a href="https://linkedin.com/in/hanselwei" target="_blank" class="button--blue">Linkedin</a>
+          <span class="relative z-0 inline-flex shadow-sm rounded-md">
+          <a href="https://linkedin.com/in/hanselwei" target="_blank" class="button--blue relative inline-flex items-center px-4 py-2 rounded-l-md border">Linkedin</a>
           <a href="https://github.com/darkmastermindz" target="_blank" class="button--grey">GitHub</a>
           <a href="mailto:Hansel Wei (Resume Request) <resume@hanselwei.dev>?subject=Resume%20Request&body=Hello%20Hansel%2C%0A%0AMy%20name%20is%20%7Byour%20name%7D%2C%20I%20would%20like%20to%20request%20for%20your%20resume%3A%20%0A%0A%7Byour%20message%20here%7D" target="_blank" class="button--green">Request Resume</a>
-        </div>
+  </span>
         <h2 class="subtitle">
-          I am a
-          <mark class="keyword">curious</mark>
-          Full Stack Developer,
-          Secured Infrastructure
-          <mark
-            class="keyword"
-          >professional,</mark> Data Scientist,
-          <mark class="keyword">&amp;</mark> Emerging
-          <mark class="keyword">tech fanactic</mark>
-          !
+          I am a Full Stack Developer, Secured Infrastructure professional, Data Scientist, Emerging tech fanactic!
         </h2>
       </div>
     </div>
@@ -47,11 +38,8 @@ export default {
 <style lang="scss">
 .container {
   margin: 0 auto;
-  min-height: 50vh;
   display: flex;
   justify-content: center;
-  align-items: center;
-  text-align: center;
 }
 
 .title {
