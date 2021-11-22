@@ -20,7 +20,7 @@
 
       </div>
 
-     <h2 class="text-left justify-center d-flex flex-column text-base">
+     <h2 class="text-left justify-center d-flex flex-column text-base y-8 sm:space-x-2 sm:space-y-2 lg:space-x-4 lg:space-y-4">
           <ul class="list-none ">         
             <li class="text-green-300">{ "I am a", Full Stack Developer", "Secured Infrastructure Professional", "Data Scientist", "Emerging Tech Fanactic!", "✨" },</li>
             <li class="text-purple-300">{ "My hobbies include", Rock Climbing", "Hiking", "Playing Video Games", "Watching Anime", "Coffee Time", "Board Games", "🧗🏻‍♂️" }</li><br>
