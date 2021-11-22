@@ -12,7 +12,7 @@
           <span class="relative z-0 lg:inline-flex sm:flex-row shadow-sm rounded-md">
             <a href="https://github.com/darkmastermindz" target="_blank" class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-grey relative inline-flex items-center px-8 py-2 rounded-l-md border">GitHub</a>
             <a href="https://www.polywork.com/darkmastermindz" target="_blank" class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-purple relative inline-flex items-center px-4 py-2 rounded-l-md border">Polywork</a>
-            <a href="https://github.com/twitter" target="_blank" class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-light-blue relative inline-flex items-center px-8 py-2 rounded-l-md border">Twitter</a>
+            <a href="https://twitter.com/darkmastermindz" target="_blank" class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-light-blue relative inline-flex items-center px-8 py-2 rounded-l-md border">Twitter</a>
             <a href="https://linkedin.com/in/hanselwei" target="_blank" class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue relative inline-flex items-center px-8 py-2 rounded-l-md border">Linkedin</a>
             <a href="mailto:Hansel Wei (Resume Request) <resume@hanselwei.dev>?subject=Resume%20Request&body=Hello%20Hansel%2C%0A%0AMy%20name%20is%20%7Byour%20name%7D%2C%20I%20would%20like%20to%20request%20for%20your%20resume%3A%20%0A%0A%7Byour%20message%20here%7D" target="_blank" 
               class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green relative inline-flex items-center px-4 py-2 rounded-l-md border">Request Resume</a>
