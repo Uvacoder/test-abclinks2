@@ -1,5 +1,4 @@
 export default {
-  mode: "universal",
   /*
    ** Headers of the page
    */
@@ -41,7 +40,7 @@ export default {
   /*
    ** Nuxt.js dev-modules
    */
-  devModules: [],
+  buildModules: [],
   /*
    ** Nuxt.js modules
    */
