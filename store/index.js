@@ -14,7 +14,7 @@ export const actions = {
 
     try {
       let githubProjects = await fetch(
-        "https://api.github.com/users/darkmastermindz/repos?page=1&per_page=100"
+        "https://api.github.com/users/uvacoder/repos?page=1&per_page=100"
       ).then(res => res.json());
 
       githubProjects = githubProjects
