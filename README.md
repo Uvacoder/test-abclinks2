@@ -1,14 +1,7 @@
-# hanselwei.dev
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e1939fee-0a59-40be-b538-0f6024576640/deploy-status)](https://app.netlify.com/sites/hansel/deploys) 
+https://tachyons.io
 
+https://tailwindcss.com/docs/installation
 
-> Hello World Hansel!
+https://tailwindcss.nuxt.dev
 
-
-
-# Personal Site in Progress
-- Develop Branch, Test Build Site: [Hosted on Netlify](https://develop.hanselwei.dev/)
-
-# Production Site Preview:
-
-![Image of Home Page](https://i.imgur.com/6ZJb5HF.jpg)
+https://nuxtjs.org
