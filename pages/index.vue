@@ -12,39 +12,39 @@
           <span
           class="relative z-0 justify-center px-8 sm:flex-row shadow-sm rounded-md font-bold md:antialiased sm:subpixel-antialiased">
           <a href="https://github.com/uvacoder" target="_blank"
-            class="f7 grow no-underline br-pill ph3 pv2 mb2 dib white bg-grey-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Github</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-grey-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Github</a>
           <a href="https://twitter.com/VaLandscapes" target="_blank"
             class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-400 relative inline-flex items-center px-8 py-2 rounded-l-md border">Twitter</a>
           <a href="https://hashnode.com/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib gray-50 bg-yellow-300 relative inline-flex items-center px-8 py-2 rounded-l-md border">Hashnode</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib gray-50 bg-yellow-300 relative inline-flex items-center px-8 py-2 rounded-l-md border">Hashnode</a>
           <a href="https://codepen.io/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-600 relative inline-flex items-center px-8 py-2 rounded-l-md border">Codepen</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-600 relative inline-flex items-center px-8 py-2 rounded-l-md border">Codepen</a>
           <a href="https://dev.to/fu4303" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-red relative inline-flex items-center px-8 py-2 rounded-l-md border">Dev.to</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-red relative inline-flex items-center px-8 py-2 rounded-l-md border">Dev.to</a>
           <a href="https://polywork.com/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-purple-600 relative inline-flex items-center px-8 py-2 rounded-l-md border">Polywork</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-purple-600 relative inline-flex items-center px-8 py-2 rounded-l-md border">Polywork</a>
           <a href="https://linkedin.com/in/alecbcampbell" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Linkedin</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Linkedin</a>
           <a href="https://dribbble.com/Uvacoder/" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-pink-500 relative inline-flex items-center px-8 py-2 rounded-l-md border">Dribbble</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-pink-500 relative inline-flex items-center px-8 py-2 rounded-l-md border">Dribbble</a>
          <a href="mailto:uvacoder@proton.me (uvacoder) <hello@uvacoder@proton.me>" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green-500 relative inline-flex items-center px-4 py-2 rounded-l-md border">Send
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green-500 relative inline-flex items-center px-4 py-2 rounded-l-md border">Send
             Email</a><br>
          <a href="https://www.showwcase.com/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Showwcase</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Showwcase</a>
          <a href="https://stackoverflow.com/users/17330377/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-pink-800 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackoverflow</a>
+            class="f grow no-underline br-pill ph3 pv2 mb2 dib white bg-pink-800 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackoverflow</a>
          <a href="https://stackblitz.com/@Uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-indigo-400 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackblitz</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-indigo-400 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackblitz</a>
          
          <a href="https://www.figma.com/@uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-pink-800 relative inline-flex items-center px-8 py-2 rounded-l-md border">Figma</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-pink-800 relative inline-flex items-center px-8 py-2 rounded-l-md border">Figma</a>
          <a href="https://jsfiddle.net/user/Uvacoder/" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-500 relative inline-flex items-center px-8 py-2 rounded-l-md border">JsFiddle</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-500 relative inline-flex items-center px-8 py-2 rounded-l-md border">JsFiddle</a>
          <a href="https://codesandbox.io/u/Uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-yellow-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Codesandbox</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-yellow-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Codesandbox</a>
          <a href="https://gist.github.com/Uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-rose-800 relative inline-flex items-center px-8 py-2 rounded-l-md border">Gists</a>
+            class="f8 grow no-underline br-pill ph3 pv2 mb2 dib white bg-rose-800 relative inline-flex items-center px-8 py-2 rounded-l-md border">Gists</a>
 </span>
 
       </div>
