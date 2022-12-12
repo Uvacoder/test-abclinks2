@@ -1,7 +1,6 @@
-https://tachyons.io
+- https://tachyons.io
+- https://tailwindcss.com/docs/installation
+- https://tailwindcss.nuxt.dev
+- https://nuxtjs.org
 
-https://tailwindcss.com/docs/installation
-
-https://tailwindcss.nuxt.dev
-
-https://nuxtjs.org
+![screenshot](./screenshot-abclinks)
