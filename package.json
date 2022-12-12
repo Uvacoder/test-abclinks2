@@ -1,8 +1,8 @@
 {
-  "name": "hanselwei.dev",
+  "name": "abclinks",
   "version": "1.0.0",
-  "description": "Hello Hansel!",
-  "author": "Hansel Wei",
+  "description": "Links for Alec",
+  "author": "AlecCampbell",
   "private": true,
   "scripts": {
     "dev": "nuxt",
