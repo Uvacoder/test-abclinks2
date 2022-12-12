@@ -22,7 +22,7 @@
           <a href="https://dev.to/fu4303" target="_blank"
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-red relative inline-flex items-center px-8 py-2 rounded-l-md border">Dev.to</a>
           <a href="https://polywork.com/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-purple-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Polywork</a>
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#9333ea relative inline-flex items-center px-8 py-2 rounded-l-md border">Polywork</a>
           <a href="https://linkedin.com/in/alecbcampbell" target="_blank"
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Linkedin</a>
           <a href="mailto:uvacoder@proton.me (uvacoder) <hello@uvacoder@proton.me>" target="_blank"
@@ -34,6 +34,8 @@
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#f97316 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackoverflow</a>
          <a href="https://stackblitz.com/@Uvacoder" target="_blank"
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#8b5cf6 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackblitz</a>
+         <a href="https://dribbble.com/Uvacoder/" target="_blank"
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#ec4899 relative inline-flex items-center px-8 py-2 rounded-l-md border">Dribbble</a>
       </span>
 
       </div>
