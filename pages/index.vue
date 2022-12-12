@@ -43,7 +43,9 @@
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-500 relative inline-flex items-center px-8 py-2 rounded-l-md border">JsFiddle</a>
          <a href="https://codesandbox.io/u/Uvacoder" target="_blank"
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-yellow-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Codesandbox</a>
-   </span>
+         <a href="https://gist.github.com/Uvacoder" target="_blank"
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-rose-800 relative inline-flex items-center px-8 py-2 rounded-l-md border">Gists</a>
+</span>
 
       </div>
 
