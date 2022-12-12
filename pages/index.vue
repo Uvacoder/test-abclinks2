@@ -27,15 +27,17 @@
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Linkedin</a>
           <a href="mailto:uvacoder@proton.me (uvacoder) <hello@uvacoder@proton.me>" target="_blank"
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green relative inline-flex items-center px-4 py-2 rounded-l-md border">Send
-            Email</a>
+            Email</a><br>
+         <a href="https://showcase.com/uvacoder/" target="_blank"
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Showcase</a>
         </span>
 
       </div>
 
      <h2 class="text-left justify-center d-flex flex-column text-base y-8 sm:p-7 lg:p1 sm:space-x-2 sm:space-y-2 lg:space-x-4 lg:space-y-4 skew-y-12">
           <ul class="list-none tracking-wider antialiased sm:subpixel-antialiased md:antialiased font-extrabold">         
-            <li class="text-green-200 animate-pulse ease-in-out infinites">{ "I am a" : [ "Full Stack Developer", "Secured Infrastructure Professional", "Data Scientist", "Emerging Tech Fanactic!", "✨" ] },</li>
-            <li class="text-purple-300 animate-pulse ease-in-out infinites">{ "My hobbies include" : [ "Basketball", "Woodworking", "Reading", "Farming", "🧗🏻‍♂️" ] }</li><br>
+            <li class="text-green-200">{ "I am a" : [ "Full Stack Developer", "Secured Infrastructure Professional", "Data Scientist", "Emerging Tech Fanactic!", "✨" ] },</li>
+            <li class="text-purple-300">{ "My hobbies include" : [ "Basketball", "Woodworking", "Reading", "Farming", "🧗🏻‍♂️" ] }</li><br>
           </ul>
     </h2>
         
