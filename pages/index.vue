@@ -29,11 +29,11 @@
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green relative inline-flex items-center px-4 py-2 rounded-l-md border">Send
             Email</a><br>
          <a href="https://www.showwcase.com/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-teal-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Showwcase</a>
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#67e8f9 relative inline-flex items-center px-8 py-2 rounded-l-md border">Showwcase</a>
          <a href="https://stackoverflow.com/users/17330377/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-orange-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackoverflow</a>
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#f97316 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackoverflow</a>
          <a href="https://stackblitz.com/@Uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-maroon-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackblitz</a>
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#8b5cf6 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackblitz</a>
       </span>
 
       </div>
