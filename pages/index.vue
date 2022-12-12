@@ -22,21 +22,23 @@
           <a href="https://dev.to/fu4303" target="_blank"
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-red relative inline-flex items-center px-8 py-2 rounded-l-md border">Dev.to</a>
           <a href="https://polywork.com/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#9333ea relative inline-flex items-center px-8 py-2 rounded-l-md border">Polywork</a>
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-purple-600 relative inline-flex items-center px-8 py-2 rounded-l-md border">Polywork</a>
           <a href="https://linkedin.com/in/alecbcampbell" target="_blank"
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Linkedin</a>
           <a href="mailto:uvacoder@proton.me (uvacoder) <hello@uvacoder@proton.me>" target="_blank"
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green relative inline-flex items-center px-4 py-2 rounded-l-md border">Send
             Email</a><br>
          <a href="https://www.showwcase.com/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#67e8f9 relative inline-flex items-center px-8 py-2 rounded-l-md border">Showwcase</a>
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-cyan-600 relative inline-flex items-center px-8 py-2 rounded-l-md border">Showwcase</a>
          <a href="https://stackoverflow.com/users/17330377/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#f97316 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackoverflow</a>
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-orange-400 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackoverflow</a>
          <a href="https://stackblitz.com/@Uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#8b5cf6 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackblitz</a>
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-indigo-400 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackblitz</a>
          <a href="https://dribbble.com/Uvacoder/" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-#ec4899 relative inline-flex items-center px-8 py-2 rounded-l-md border">Dribbble</a>
-      </span>
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-pink-500 relative inline-flex items-center px-8 py-2 rounded-l-md border">Dribbble</a>
+         <a href="https://www.figma.com/@uvacoder" target="_blank"
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-fuchsia-500 relative inline-flex items-center px-8 py-2 rounded-l-md border">Figma</a>
+     </span>
 
       </div>
 
