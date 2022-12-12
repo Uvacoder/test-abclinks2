@@ -21,7 +21,7 @@ export const actions = {
         .filter(
           el =>
             el.fork === false ||
-          //  el.name === "HackNC2019" || el.name === "iole-python"
+            el.name === "HackNC2019" || el.name === "iole-python"
         )
         .map(
           ({
