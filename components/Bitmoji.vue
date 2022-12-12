@@ -1,6 +1,6 @@
 <template>
   <div class="bitmojiAni">
-    <img svg-inline class="icon" src="~/assets/hanselbitmoji.svg" alt="example" />
+    <img class="icon" src="~/assets/logo-a-purplepink.JPG" alt="example" />
   </div>
 </template>
 
