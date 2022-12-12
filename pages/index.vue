@@ -38,7 +38,11 @@
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-pink-500 relative inline-flex items-center px-8 py-2 rounded-l-md border">Dribbble</a>
          <a href="https://www.figma.com/@uvacoder" target="_blank"
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-violet-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Figma</a>
-     </span>
+         <a href="https://jsfiddle.net/user/Uvacoder/" target="_blank"
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-500 relative inline-flex items-center px-8 py-2 rounded-l-md border">JsFiddle</a>
+         <a href="https://codesandbox.io/u/Uvacoder" target="_blank"
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-teal-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Codesandbox</a>
+   </span>
 
       </div>
 
