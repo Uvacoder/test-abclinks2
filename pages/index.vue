@@ -26,12 +26,12 @@
           <a href="https://linkedin.com/in/alecbcampbell" target="_blank"
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-blue-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Linkedin</a>
           <a href="mailto:uvacoder@proton.me (uvacoder) <hello@uvacoder@proton.me>" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green relative inline-flex items-center px-4 py-2 rounded-l-md border">Send
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green-500 relative inline-flex items-center px-4 py-2 rounded-l-md border">Send
             Email</a><br>
          <a href="https://www.showwcase.com/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-cyan-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Showwcase</a>
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-green-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Showwcase</a>
          <a href="https://stackoverflow.com/users/17330377/uvacoder" target="_blank"
-            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-orange-700 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackoverflow</a>
+            class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-pink-800 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackoverflow</a>
          <a href="https://stackblitz.com/@Uvacoder" target="_blank"
             class="f6 grow no-underline br-pill ph3 pv2 mb2 dib white bg-indigo-400 relative inline-flex items-center px-8 py-2 rounded-l-md border">Stackblitz</a>
          <a href="https://dribbble.com/Uvacoder/" target="_blank"
