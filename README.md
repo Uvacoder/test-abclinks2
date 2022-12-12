@@ -3,4 +3,4 @@
 - https://tailwindcss.nuxt.dev
 - https://nuxtjs.org
 
-![screenshot](./screenshot-abclinks)
+![screenshot](https://raw.githubusercontent.com/Uvacoder/abclinks/main/screenshot-abclinks.png?token=GHSAT0AAAAAABZWJ5Q2OKCPAPSUAXRBBJY2Y4XFQ7Q)
