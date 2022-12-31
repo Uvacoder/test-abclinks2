@@ -11,7 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "core-js": "^2.0.0",
+    "core-js": "^2.6.12",
     "firebase": "^7.6.0",
     "node-sass": "^4.13.1",
     "nuxt": "^2.10.2",
