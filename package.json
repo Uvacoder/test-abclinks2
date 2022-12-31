@@ -15,7 +15,7 @@
     "firebase": "^7.6.0",
     "node-sass": "^4.13.1",
     "nuxt": "^2.10.2",
-    "nuxt-fire": "^3.5.2",
+    "nuxt-fire": "^3.5.7",
     "sass-loader": "^10.1.1",
     "tachyons": "^4.11.1",
     "vue-typed-js": "^0.1.2",

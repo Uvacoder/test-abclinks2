@@ -7758,10 +7758,10 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
 
-nuxt-fire@^3.5.2:
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/nuxt-fire/-/nuxt-fire-3.5.2.tgz#534c087001073cc77a75f1e0787b6cd2493151f7"
-  integrity sha512-PDQOvHV7qrP7Xga6kWM9zRJCc1H0obnYP/ux2f1B3qKfc1+Aaf4Qb/eKya3FiLxyWgGw0M/KARXW+S0vJhK4NA==
+nuxt-fire@^3.5.7:
+  version "3.5.7"
+  resolved "https://registry.yarnpkg.com/nuxt-fire/-/nuxt-fire-3.5.7.tgz#395099baf4f39b7ddce4f1123a894826d4c123a3"
+  integrity sha512-YaTaVZp8i9Ac5mGoj4JE8a5VbmiccYY0izBh2nBDL0McE6QgfCdCfD7G5YLZXQGX34o+ukzHzLCsOsKBGlLp4A==
   dependencies:
     firebase-admin "^8.8.0"
     jwt-decode "^2.2.0"
