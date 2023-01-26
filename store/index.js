@@ -18,11 +18,7 @@ export const actions = {
       ).then(res => res.json());
 
       githubProjects = githubProjects
-        .filter(
-          el =>
-            el.fork === false ||
-            el.name === "HackNC2019" || el.name === "iole-python"
-        )
+        
         .map(
           ({
             id,
