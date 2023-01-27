@@ -26,5 +26,8 @@
     "autoprefixer": "^10.4.0",
     "npm-check-updates": "^4.0.1",
     "postcss": "^8.3.11"
-  }
+  },
+  "engines": {
+    "node": "16.18.1"
+  }  
 }
